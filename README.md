@@ -1,19 +1,30 @@
-# Módulo 3 - Trilha HTML
+# 🚀 Desafio - Módulo 3 da Trilha de HTML (DIO)
 
-**Título:** Recriando Wikipedia, com um layout melhor :)
+🔗 **Site no ar:** [Acesse aqui](https://hugocarnavalledev.github.io/desafio-dio-html-3/)
 
-## Objetivo
-Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
+## 📚 Descrição
+Desafio proposto no Módulo 3 da Trilha de HTML da Digital Innovation One (DIO), com o objetivo de reforçar conhecimentos sobre **estrutura HTML**, **semântica** e **acessibilidade**.
 
-## Desafio
-Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.
+## 📝 Tema
+**Recriando uma página estilo Wikipedia, com um layout melhorado.**
 
-Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
+Este projeto apresenta uma proposta de layout mais moderno e visualmente agradável, inspirado no estilo da Wikipedia, mas com liberdade para personalizações criativas.
 
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
+## 🎯 Objetivo do Desafio
+- Praticar a estruturação de páginas HTML.
+- Utilizar tags semânticas corretamente.
+- Aplicar conceitos básicos de acessibilidade.
+- Estimular a criatividade no desenvolvimento.
 
-## Links úteis
-- [Download do NVDA](https://www.nvaccess.org/download/)
-- [Wikipedia](https://pt.wikipedia.org/)
+## 📦 O que vem no repositório
+Este repositório já contém uma estrutura base com HTML e um pouco de CSS, para dar uma aparência inicial ao projeto. A partir disso, o desafio propõe que você desenvolva sua própria versão da página.
 
+## 💡 Instruções
+- Sinta-se livre para escolher o tema da sua página.
+- Personalize o conteúdo conforme preferir.
+- O objetivo é se divertir enquanto aprende!
+- Para mais detalhes, assista à explicação completa no vídeo da chamada do desafio.
 
+---
+
+✍️ Feito por [Hugo Carnavalle](https://github.com/hugocarnavalledev)
